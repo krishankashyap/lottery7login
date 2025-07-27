@@ -1,12 +1,36 @@
-<div align="center">
+<div align="center" style="margin: 20px;">
 
-<a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/414b454e53f159bf85db.png" alt="Lottery 7 Register" width="100%" height="auto" style="margin: 15px;" />
-</a>
+  <a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 15px;
+    background-color: #e50914;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#b10610'" onmouseout="this.style.backgroundColor='#e50914'">
+    Register on Lottery 7
+  </a>
 
-<a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imageupload.app/1661b8409a144a429a5f.png" alt="Lottery 7 Login" width="100%" height="auto" style="margin: 15px;" />
-</a>
+  <br />
+
+  <a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    padding: 15px 30px;
+    margin: 15px;
+    background-color: #e50914;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#b10610'" onmouseout="this.style.backgroundColor='#e50914'">
+    Login to Lottery 7
+  </a>
 
 </div>
 
