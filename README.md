@@ -1,38 +1,4 @@
-<div align="center" style="margin: 20px;">
 
-  <a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer" style="
-    display: inline-block;
-    padding: 15px 30px;
-    margin: 15px;
-    background-color: #e50914;
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
-    border-radius: 10px;
-    transition: background-color 0.3s ease;
-  " onmouseover="this.style.backgroundColor='#b10610'" onmouseout="this.style.backgroundColor='#e50914'">
-    Register on Lottery 7
-  </a>
-
-  <br />
-
-  <a href="https://lottery-77.com" target="_blank" rel="noopener noreferrer" style="
-    display: inline-block;
-    padding: 15px 30px;
-    margin: 15px;
-    background-color: #e50914;
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
-    border-radius: 10px;
-    transition: background-color 0.3s ease;
-  " onmouseover="this.style.backgroundColor='#b10610'" onmouseout="this.style.backgroundColor='#e50914'">
-    Login to Lottery 7
-  </a>
-
-</div>
 
 # 🎮 Lottery 7 Login & Register – Step-by-Step Guide (2025)
 
